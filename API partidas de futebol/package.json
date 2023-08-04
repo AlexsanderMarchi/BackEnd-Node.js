@@ -1,0 +1,18 @@
+{
+  "name": "partidas.js",
+  "version": "1.0.0",
+  "description": "Introducao ao node.js",
+  "main": "partidas.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node partidas.js"
+  },
+  "keywords": [
+    "futebol",
+    "node",
+    "partidas",
+    "filter"
+  ],
+  "author": "Alex",
+  "license": "MIT"
+}
