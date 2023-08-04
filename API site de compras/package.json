@@ -1,0 +1,24 @@
+{
+  "name": "compras.js",
+  "version": "1.0.0",
+  "description": "API de Compras Online",
+  "main": "Compra.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon compra.js"
+  },
+  "keywords": [
+    "Compra",
+    "post",
+    "get",
+    "delete"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
